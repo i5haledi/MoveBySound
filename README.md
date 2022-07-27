@@ -8,4 +8,6 @@ To be able to move the stepper motor by sound, you must use the following two wo
 - To move the motor 180 degrees, say "يمين"
 - To move the motor 0 degrees, say "يسار"
 
+The page to Convert Arabic Speech into Text: https://arspeechtotext.000webhostapp.com
+
 
